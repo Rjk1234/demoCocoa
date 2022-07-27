@@ -1,0 +1,16 @@
+PODS:
+  - demoCocoa (0.1.0)
+
+DEPENDENCIES:
+  - demoCocoa (from `../`)
+
+EXTERNAL SOURCES:
+  demoCocoa:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  demoCocoa: 71996288870be38414fd97b8e59b5167ec7fec9b
+
+PODFILE CHECKSUM: 8465a159099bf1af71feaff644c8919341c2e4fe
+
+COCOAPODS: 1.11.3
